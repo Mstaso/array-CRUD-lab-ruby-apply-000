@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(colors, white).last
-  white = "white"
+  white = "arrays!"
 colors.push(white)
 end
 
