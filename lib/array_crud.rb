@@ -4,7 +4,6 @@ end
 
 def colors
   [red, blue, yellow, green]
-  
 end
 
 def add_color(colors, black)
