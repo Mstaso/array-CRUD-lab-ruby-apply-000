@@ -7,7 +7,7 @@ def colors
   
 end
 
-def add_element_to_end_of_array(colors, black)
+def add_color(colors, black)
   
 end
 
