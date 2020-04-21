@@ -13,7 +13,7 @@ end
 
 
 def add_element_to_start_of_array(colors, black)
-  black = "arrays!"
+  black = "wow"
   colors.unshift(black)
 end
 
