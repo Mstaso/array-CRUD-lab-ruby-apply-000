@@ -12,8 +12,8 @@ colors.push(white)
 end
 
 
-def add_element_to_start_of_array(numbers, element)
-  
+def add_element_to_start_of_array(colors, black)
+  bla
 end
 
 def remove_element_from_end_of_array(array)
