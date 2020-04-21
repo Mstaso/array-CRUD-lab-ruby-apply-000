@@ -33,6 +33,6 @@ def retrieve_first_element_from_array(colors)
   colors.first
 end
 
-def retrieve_last_element_from_array(array)
-  
+def retrieve_last_element_from_array(colors)
+  colors.last
 end
