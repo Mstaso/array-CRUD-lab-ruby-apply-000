@@ -18,7 +18,7 @@ def add_element_to_start_of_array(colors, black)
 end
 
 def remove_element_from_end_of_array(colors)
-  c
+  white = colors.pop
 end
 
 def remove_element_from_start_of_array(array)
