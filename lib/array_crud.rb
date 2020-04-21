@@ -17,8 +17,8 @@ def add_element_to_start_of_array(colors, black)
   colors.unshift(black)
 end
 
-def remove_element_from_end_of_array(array)
-  
+def remove_element_from_end_of_array(colors)
+  c
 end
 
 def remove_element_from_start_of_array(array)
