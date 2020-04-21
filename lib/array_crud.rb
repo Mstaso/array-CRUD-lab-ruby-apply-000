@@ -29,7 +29,8 @@ def retrieve_element_from_index(colors, index_1)
   colors[index_1]
 end
 
-def retrieve_first_element_from_array(colors, )
+def retrieve_first_element_from_array(colors, index_0)
+  colors
   
 end
 
