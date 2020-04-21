@@ -11,6 +11,7 @@ def add_color(colors, black)
   colors.push(black)
 end
 
+
 def add_element_to_start_of_array(array, element)
   
 end
