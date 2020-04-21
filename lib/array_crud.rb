@@ -25,7 +25,7 @@ def remove_element_from_start_of_array(colors)
   black = colors.shift
 end
 
-def retrieve_element_from_index(colors, index[0])
+def retrieve_element_from_index(colors, )
   colors[0]
 end
 
