@@ -7,7 +7,6 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(numbers.push("5"))
-  numbers.push("5")
 end
 
 
